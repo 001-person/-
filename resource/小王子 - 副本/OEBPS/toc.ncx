@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+<head>
+<meta content="4009696721" name="dtb:uid"/>
+<meta content="1" name="dtb:depth"/>
+<meta content="mobiunpack.py" name="dtb:generator"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>小王子</text>
+</docTitle>
+<navMap>
+    <navPoint id="np_1" playOrder="1">
+    <navLabel>
+    <text>导 读</text>
+    </navLabel>
+    <content src="Text/part0002.xhtml"/>
+    </navPoint>
+    <navPoint id="np_2" playOrder="2">
+    <navLabel>
+    <text>献给列翁·维尔特</text>
+    </navLabel>
+    <content src="Text/part0003.xhtml"/>
+    </navPoint>
+    <navPoint id="np_3" playOrder="3">
+    <navLabel>
+    <text>1</text>
+    </navLabel>
+    <content src="Text/part0004.xhtml"/>
+    </navPoint>
+    <navPoint id="np_4" playOrder="4">
+    <navLabel>
+    <text>2</text>
+    </navLabel>
+    <content src="Text/part0005.xhtml"/>
+    </navPoint>
+    <navPoint id="np_5" playOrder="5">
+    <navLabel>
+    <text>3</text>
+    </navLabel>
+    <content src="Text/part0006.xhtml"/>
+    </navPoint>
+    <navPoint id="np_6" playOrder="6">
+    <navLabel>
+    <text>4</text>
+    </navLabel>
+    <content src="Text/part0007.xhtml"/>
+    </navPoint>
+    <navPoint id="np_7" playOrder="7">
+    <navLabel>
+    <text>5</text>
+    </navLabel>
+    <content src="Text/part0008.xhtml"/>
+    </navPoint>
+    <navPoint id="np_8" playOrder="8">
+    <navLabel>
+    <text>6</text>
+    </navLabel>
+    <content src="Text/part0009.xhtml"/>
+    </navPoint>
+    <navPoint id="np_9" playOrder="9">
+    <navLabel>
+    <text>7</text>
+    </navLabel>
+    <content src="Text/part0010.xhtml"/>
+    </navPoint>
+    <navPoint id="np_10" playOrder="10">
+    <navLabel>
+    <text>8</text>
+    </navLabel>
+    <content src="Text/part0011.xhtml"/>
+    </navPoint>
+    <navPoint id="np_11" playOrder="11">
+    <navLabel>
+    <text>9</text>
+    </navLabel>
+    <content src="Text/part0012.xhtml"/>
+    </navPoint>
+    <navPoint id="np_12" playOrder="12">
+    <navLabel>
+    <text>10</text>
+    </navLabel>
+    <content src="Text/part0013.xhtml"/>
+    </navPoint>
+    <navPoint id="np_13" playOrder="13">
+    <navLabel>
+    <text>11</text>
+    </navLabel>
+    <content src="Text/part0014.xhtml"/>
+    </navPoint>
+    <navPoint id="np_14" playOrder="14">
+    <navLabel>
+    <text>12</text>
+    </navLabel>
+    <content src="Text/part0015.xhtml"/>
+    </navPoint>
+    <navPoint id="np_15" playOrder="15">
+    <navLabel>
+    <text>13</text>
+    </navLabel>
+    <content src="Text/part0016.xhtml"/>
+    </navPoint>
+    <navPoint id="np_16" playOrder="16">
+    <navLabel>
+    <text>14</text>
+    </navLabel>
+    <content src="Text/part0017.xhtml"/>
+    </navPoint>
+    <navPoint id="np_17" playOrder="17">
+    <navLabel>
+    <text>15</text>
+    </navLabel>
+    <content src="Text/part0018.xhtml"/>
+    </navPoint>
+    <navPoint id="np_18" playOrder="18">
+    <navLabel>
+    <text>16</text>
+    </navLabel>
+    <content src="Text/part0019.xhtml"/>
+    </navPoint>
+    <navPoint id="np_19" playOrder="19">
+    <navLabel>
+    <text>17</text>
+    </navLabel>
+    <content src="Text/part0020.xhtml"/>
+    </navPoint>
+    <navPoint id="np_20" playOrder="20">
+    <navLabel>
+    <text>18</text>
+    </navLabel>
+    <content src="Text/part0021.xhtml"/>
+    </navPoint>
+    <navPoint id="np_21" playOrder="21">
+    <navLabel>
+    <text>19</text>
+    </navLabel>
+    <content src="Text/part0022.xhtml"/>
+    </navPoint>
+    <navPoint id="np_22" playOrder="22">
+    <navLabel>
+    <text>20</text>
+    </navLabel>
+    <content src="Text/part0023.xhtml"/>
+    </navPoint>
+    <navPoint id="np_23" playOrder="23">
+    <navLabel>
+    <text>21</text>
+    </navLabel>
+    <content src="Text/part0024.xhtml"/>
+    </navPoint>
+    <navPoint id="np_24" playOrder="24">
+    <navLabel>
+    <text>22</text>
+    </navLabel>
+    <content src="Text/part0025.xhtml"/>
+    </navPoint>
+    <navPoint id="np_25" playOrder="25">
+    <navLabel>
+    <text>23</text>
+    </navLabel>
+    <content src="Text/part0026.xhtml"/>
+    </navPoint>
+    <navPoint id="np_26" playOrder="26">
+    <navLabel>
+    <text>24</text>
+    </navLabel>
+    <content src="Text/part0027.xhtml"/>
+    </navPoint>
+    <navPoint id="np_27" playOrder="27">
+    <navLabel>
+    <text>25</text>
+    </navLabel>
+    <content src="Text/part0028.xhtml"/>
+    </navPoint>
+    <navPoint id="np_28" playOrder="28">
+    <navLabel>
+    <text>26</text>
+    </navLabel>
+    <content src="Text/part0029.xhtml"/>
+    </navPoint>
+    <navPoint id="np_29" playOrder="29">
+    <navLabel>
+    <text>27</text>
+    </navLabel>
+    <content src="Text/part0030.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

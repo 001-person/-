@@ -1,0 +1,393 @@
+@charset "utf-8";
+/* CSS Document */
+.frontCover {
+    text-align: center;
+    border: 0;
+}
+
+/*封皮*/
+a {
+    text-decoration: none;
+}
+
+h1.Sequence, h1.chapterCaption {
+    font-family: '';
+    font-size: 1.6em;
+    line-height: 2em;
+    text-align: center;
+    text-indent: 0;
+    margin: 5pt 0;
+    letter-spacing: auto;
+}
+
+   /*一级标题*/
+h2.sectionHeading {
+    font-family: '';
+    font-size: 1.4em;
+    line-height: 2em;
+    text-align: center;
+    text-indent: 0;
+    margin: 5pt 0;
+    letter-spacing: auto;
+}
+
+ /*二级标题*/
+h3.listHeadline {
+    font-family: '';
+    font-size: 1.2em;
+    line-height: 1.6em;
+    text-align: center;
+    text-indent: 0;
+    margin: 5pt 0;
+    letter-spacing: auto;
+}
+
+ /*三级标题*/
+h4.lastTitle {
+    font-family: '';
+    font-size: 1em;
+    line-height: 1.4em;
+    text-align: center;
+    text-indent: 0;
+    margin: 5pt 0;
+    letter-spacing: auto;
+}
+
+ /*四级标题*/
+h5.fiveTitle {
+    font-family: '';
+    font-size: 0.95em;
+    line-height: 1.3em;
+    text-align: left;
+    text-indent: 0;
+    margin: 3pt 0;
+    letter-spacing: auto;
+}
+
+ /*五级标题*/
+h6.sixTitle {
+    font-family: '';
+    font-size: 0.85em;
+    line-height: 1.3em;
+    text-align: left;
+    text-indent: 0;
+    margin: 3pt 0;
+    letter-spacing: auto;
+}
+
+ /*六级标题*/
+.bodyContent {
+    line-height: 1.5em;
+    text-align: justify;
+    text-indent: 2em;
+    margin: 10pt 0;
+    letter-spacing: auto;
+}
+
+ /*正文内容*/
+.bodyContent1 {
+    line-height: 1.5em;
+    text-align: left;
+    text-indent: 0em;
+    margin: 10pt 0;
+    letter-spacing: auto;
+}
+
+ /*正文内容*/
+.bodyContent2 {
+    line-height: 1.5em;
+    text-align: left;
+    text-indent: 4em;
+    margin: 10pt 0;
+    letter-spacing: auto;
+}
+
+ /*正文内容*/
+.notNaturalParagraph {
+    line-height: 1.5em;
+    text-align: left;
+    text-indent: 2em;
+    margin: 0;
+    letter-spacing: auto;
+}
+
+/*非自然段落*/
+.dyfirst {
+    font-family: '';
+    font-size: 0.85em;
+    line-height: 1.5em;
+    text-align: left;
+    margin: 10pt 0;
+    letter-spacing: auto;
+}
+
+.dyfirst:first-letter {
+    font-size: 300%;
+    font-weight: bold;
+    color: #ff000;
+    float: left;
+    color: #000000;
+}
+
+/*首行文字下沉效果*/
+.fnoteRight {
+    font-family: '';
+    font-size: 0.9em;
+    line-height: 1.5em;
+    text-align: right;
+    letter-spacing: auto;
+}
+
+ /*右下角说明*/
+.bodyReference {
+    text-align: left;
+    text-indent: 2.0em;
+    line-height: 1.5em;
+    letter-spacing: auto;
+}
+
+ /*书信称谓*/
+.bodyLetter {
+    font-size: 0.95em;
+    text-align: left;
+    text-indent: 2.0em;
+    line-height: 1.5em;
+    letter-spacing: auto;
+    font-style: italic;
+}
+
+/*书信内容*/
+.titleQuot {
+    font-family: '';
+    font-size: 0.85em;
+    line-height: 1.5em;
+    text-align: left;
+    text-indent: 24px;
+    margin: 5pt 0;
+    letter-spacing: auto;
+}
+
+/*引文标题*/
+.conQuot {
+    font-family: '';
+    font-size: 0.9em;
+    line-height: 1.5em;
+    text-align: justify;
+    text-indent: 2em;
+    letter-spacing: auto;
+    margin-top: 5pt;
+    margin-right: 1em;
+    margin-bottom: 5pt;
+    margin-left: 1em;
+}
+
+
+/*引文*/
+.bodyPic {
+    text-align: center;
+    font-size: 0%;
+}
+
+ /*正文图表*/
+.imgDescript {
+    font-family: '';
+    font-size: 0.85em;
+    line-height: 1.5em;
+    text-align: center;
+    text-indent: 0;
+    font-weight: bold;
+    letter-spacing: auto;
+}
+
+ /*正文图表2*/
+.imgDescript2 {
+    font-family: '';
+    font-size: 0.85em;
+    line-height: 1.5em;
+    text-align: left;
+    text-indent: 0;
+    font-weight: bold;
+    letter-spacing: auto;
+    text-indent: 2em;
+}
+
+ /*图表注释*/
+.tableCaption {
+    font-family: '';
+    font-size: 0.95em;
+    line-height: 1.5em;
+    text-align: center;
+    text-indent: 0;
+    font-weight: bold;
+    letter-spacing: auto;
+}
+
+/*正文中表格表头样式*/
+.borderColor {
+    border: 2px solid #a25400;
+}
+
+/*边框样式*/
+.bgroundColor {
+    background: #F8F2DA;
+}
+
+/*段落底色*/
+.signImg {
+    text-align: right;
+    font-size: 0%;
+}
+
+/*正文右下角签名图片*/
+.noteTitle {
+    font-family: '';
+    font-size: 0.8em;
+    line-height: 1.5em;
+    font-weight: bold;
+    text-align: left;
+    text-indent: 0;
+    letter-spacing: auto;
+}
+
+ /*附注*/
+.noteContent {
+    font-family: '';
+    font-size: 0.8em;
+    line-height: 1.5em;
+    text-align: left;
+    text-indent: 2em;
+    letter-spacing: auto;
+}
+
+ /*附注说明*/
+.bodyPoem {
+    font-family: '';
+    font-size: 1.0em;
+    text-align: center;
+    line-height: 1.5em;
+    letter-spacing: auto;
+}
+
+ /*诗词*/
+.conAuthor {
+    font-family: '';
+    font-size: 0.9em;
+    text-align: right;
+    line-height: 1.5em;
+    padding-right: 4em;
+    letter-spacing: auto;
+}
+
+ /*诗词作者*/
+.poemText {
+    font-family: '';
+    font-size: 0.8em;
+    text-align: center;
+    line-height: 1.5em;
+    letter-spacing: auto;
+}
+
+ /*诗词正文*/
+span.super {
+    font-size: 0.7em;
+    vertical-align: super;
+}
+
+ /*数字上标*/
+span.sub {
+    font-size: 0.7em;
+    vertical-align: sub;
+}
+
+ /*数字下标*/
+span.subScript {
+    font-size: 0.7em;
+    vertical-align: super;
+}
+
+/*跳转注标*/
+.bold {
+    font-weight: bold;
+}
+
+/*加粗*/
+.left {
+    text-align: left;
+    text-indent: 0;
+}
+
+/*左对齐*/
+.center {
+    text-align: center;
+    text-indent: 0;
+}
+
+/*居中对齐*/
+.right {
+    text-align: right;
+    text-indent: 0;
+}
+
+/*右对齐*/
+.indentS {
+    text-indent: 2em;
+    margin: 5pt 0;
+}
+
+/*其它缩进24像素*/
+.indentT {
+    text-indent: 3em;
+    margin: 5pt 0;
+}
+
+/*其它缩进36像素*/
+.indentF {
+    text-indent: 4em;
+    margin: 5pt 0;
+}
+
+/*其它缩进48像素*/
+.emphasis {
+    text-decoration: underline;
+}
+
+/*着重强调加下划线*/
+.textItalic {
+    font-style: italic;
+}
+
+/*斜体*/
+.conLink {
+}
+
+/*正文中网址*/
+.rareFont {
+    width: 0.8em;
+}
+
+/*正文中生僻字图片代替*/
+.subHead {
+    text-align: right;
+}
+
+/*副标题*/
+.smallx1 {
+    font-size: 0.8em;
+    font-weight: bold;
+}
+
+.zs {
+    font-size: 0.8em;
+}
+
+.conQuot2 {
+    font-family: '';
+    font-size: 0.9em;
+    line-height: 1.5em;
+    text-align: left;
+    text-indent: 2em;
+    letter-spacing: auto;
+}
+table {
+    margin: auto;
+}
