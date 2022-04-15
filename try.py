@@ -15,7 +15,7 @@ class MainWindow(QMainWindow):
         super(QMainWindow, self).__init__()
         self.setGeometry(5,30,1355,730)
         self.br =QWebEngineView()
-        self.br.load(QUrl(r"C:\Users\青衫\Desktop\vscode\transform.html"))
+        self.br.load(QUrl(r"#"))
         self.setCentralWidget(self.br)
 
 
